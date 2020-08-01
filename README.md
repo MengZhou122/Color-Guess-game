@@ -2,4 +2,4 @@
 
 An web page game developed with HTML/CSS/JS
 
-Given an RBG value and 3(easy mode)/6(hard mode) color squares, guess the corret one
+Out of 3(easy mode)/6(hard mode) colored squares, guess the corret one for the randomly given RBG value set.
